@@ -1,3 +1,8 @@
+Nama: Ahmad Aimar Refaldi Ramang
+NIM: 2609116056
+Kelas: B 2026
+
+
 DESKRIPSI SINGKAT
 
 Program Data Poin Tim M7 adalah sebuah program yang dibuat dengan Python dan digunakan untuk mengelola data poin dari berbagai tim dalam sebuah klasemen. Program ini memiliki fitur login dan dua jenis peran, yaitu admin dan user. Admin bisa melakukan semua hal, seperti menampilkan, menambah, mengubah, dan menghapus data tim. Sementara user hanya bisa melihat data tim saja.
